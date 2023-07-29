@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# NFT.co
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the First project for the onboarding of FE devs.
 
-## Available Scripts
+## Problems
 
-In the project directory, you can run:
+I can't utilize the validations and restrictions in the input fields.
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Sign Up 1
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/b264d068-8a3e-43d6-a99b-1d2d47db17c8)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Sign Up 2
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/76169ef5-ed1b-4e3c-9c63-3a8fa1799ec8)
 
-### `npm test`
+Log In 1
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/da0559bf-fd92-4af2-b8c6-df37ec1d7ac4)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Log In 2
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/7c8a2e5f-6760-4c78-a9ca-3e240f1d39bf)
 
-### `npm run build`
+Landing Page
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/ad2c48e9-c438-4f83-b0ed-05b8903a390a)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Video Rundown
+![2023-07-29 16-49-13](https://github.com/patkyu/nft.co.8nergy/assets/87472224/e91da768-27ff-4367-8ac9-11698bcab827)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Figma File
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/patkyu/nft.co.8nergy/assets/87472224/d30b3d17-2e70-45f2-92b9-b166f9801128)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.figma.com/file/hRNDlQRK1dqLboAUkDoT7a/NFT.co?type=design&node-id=0%3A1&mode=design&t=v6oF8CpeHe7YaPPV-1

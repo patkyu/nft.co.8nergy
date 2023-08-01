@@ -26,9 +26,9 @@ function App() {
         <Route path="/log-in-1" element={<LogIn1 />} />
         <Route path="/log-in-2" element={<LogIn2 />} />
         {/* Redirect to /sign-up-1 when root URL is visited */}
-        <Route path="/" element={<Navigate to="/sign-up-1" />} />
+        <Route path="/" element={<Navigate to="/log-in-1" />} />
         {/* You can also use the DefaultRouteComponent for the root URL */}
-        <Route path="/" element={<DefaultRouteComponent />} />
+        {/* <Route path="/" element={<DefaultRouteComponent />} /> */}
       </Routes>
     </Router>
   );

@@ -8,7 +8,7 @@ import Q21Image from "./assets/images/LandingPage__2_1.png";
 const LandingPage1 = styled("div")({
   backgroundColor: `rgba(255, 255, 255, 1)`,
   display: `flex`,
-  position: `relative`,
+  // position: `relative`,
   isolation: `isolate`,
   flexDirection: `row`,
   width: `100%`, // Adjusted to be 100% of the viewport width
@@ -17,7 +17,7 @@ const LandingPage1 = styled("div")({
   alignItems: `flex-start`,
   padding: `0px`,
   boxSizing: `border-box`,
-  overflow: `hidden`
+  // overflow: `hidden`
 });
 
 const Q82 = styled("img")({
